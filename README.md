@@ -16,6 +16,6 @@ Button will turn red if no password is found and a new window will appear.
  Notes: 
  No error handling for invalid files.
  Have not checked if this works on Linux.
- Compiled with recent version of JDK. Need to research on how to allow cross compatibility. 
+ Compiled with recent version of JDK. Need to research on how to allow cross compatibility for older versions of jdk.
 
 
